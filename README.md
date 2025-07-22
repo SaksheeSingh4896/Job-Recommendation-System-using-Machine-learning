@@ -1,6 +1,6 @@
 # Job recommendation engine
 
-This repository contains improvised approach for building job recommendation engine.
+
 
 
 ## Dependencies
@@ -32,6 +32,4 @@ This repository contains improvised approach for building job recommendation eng
 * Make a folder `input_data`
 * Put all datafiles inside this folder
 
-## Usage
 
-Please run the code givne in jupyter notebook `Job_recommendation_engine.ipynb` 
